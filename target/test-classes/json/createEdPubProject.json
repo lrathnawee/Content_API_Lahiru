@@ -1,0 +1,8 @@
+{
+  "author": "Jayanath",
+  "name": "Test Name",
+  "subtitle": "Test Sub-title",
+  "hasProduct": [
+    {"isbn": "${isbn}"}
+  ]
+}

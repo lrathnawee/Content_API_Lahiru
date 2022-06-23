@@ -1,0 +1,17 @@
+{
+  "modelType": "TableOfContents",
+  "state": "created",
+  "name":
+
+  {
+    "htmLang": "en",
+    "htmValue": "toc name test"
+  },
+  "fileName": "toc-test-filename-Project cpub",
+  "mapsProduct":
+
+  {
+    "id": "${eduID}",
+    "modelType": "EducationProject"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "modelType": "Project",
+  "name": "name",
+  "subtitle": "subtitle",
+  "pNumber" : "P ${randNum4}",
+  "author": "author",
+  "hasProduct": [{
+    "id": "${bookid1}",
+    "modelType": "Book"
+  }]
+
+}

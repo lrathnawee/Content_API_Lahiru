@@ -1,0 +1,5 @@
+{
+  "modelType": "LearningObjectMap",
+  "mapsProduct":{"id":"${product_id}","modelType":"LearningObjectProduct"}
+
+}
