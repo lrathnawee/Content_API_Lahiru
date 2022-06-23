@@ -1,0 +1,30 @@
+# ---- Folders ----
+data/
+result[1234567890]*/
+.idea
+target/
+# ----- Files -----
+*.bak
+*.tmp
+*.log
+*.c.pickle
+*.sdf
+*.ci
+*.idx
+*.har
+*.pyc
+~$*
+shunra.shunra
+mdrv_cmd.txt
+options.txt
+output.txt
+pre_cci.c
+combined_*.c
+lrw_custom_body.h
+TransactionsData.db
+CompilerLogMetadata.xml
+ReplaySummaryReport.xml
+UserTasks.xml
+Bookmarks.xml
+Breakpoints.xml
+git_stash.sh

@@ -1,0 +1,16 @@
+{
+  "modelType": "Book",
+  "name": "Test Leitfaden",
+  "subtitle": "TestBook",
+  "isbn":"${isbn}",
+  "sku":"",
+  "edition": 1,
+  "trimSizeWidth": 0.0,
+  "trimSizeHeight": 0.0,
+  "inLanguage": "German",
+  "marketedUnder": "Wiley-Blackwell",
+  "state": "Active",
+  "created": "2020-06-23T12:04:31Z",
+  "inLanguage": "zh-CHS"
+
+}
